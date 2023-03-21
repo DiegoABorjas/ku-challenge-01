@@ -1,2 +1,2 @@
 # ku-challenge-01
-HTML, CSS, and Git: Code Refactor
+This project consists of adding accesibility standars to a website.
